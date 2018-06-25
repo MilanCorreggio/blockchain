@@ -1,1 +1,0 @@
-{'index': 1, 'timestamp': 1529583734.0884097, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
